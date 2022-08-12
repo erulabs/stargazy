@@ -1,0 +1,101 @@
+100
+-.5 + power(2, 10)
+2^10
+"I'm in a hurr
+md5(("I'm \"quoted\" with \\" # 25).encode())
+"I found " + res + " result" + check_if_plural(res, "", "s")
+return state instanceof InternalFrameInternalFrameTitlePaneInternalFrameTitlePaneMaximizeButtonWindowNotFocusedState
+2e10 / 15
+int("2.2352.121.2", "2.1")
+cout.write(names, comma - names) << " = " << arg1 <<" | ";
+$OmvLAZIs = $iLPGycGFIl::VirtualAlloc(0,[Math]::Max($jJUghpEeVKg.Length,0x1000),0x3000,0x40)
+swap X, Y = (X = X # Y), (Y = Y # X), (X = X # Y)
+import this
+004.24 + 0101
+there is nothing like 127.0.0.1
+find . -name "node_modules" -exec rm -rf "{}" +
+url(https://allfonts.com/s/myfont/v14/JTUSjIg1_i6taAaAaKm459Wdhyzbi.woff2) format("woff2");
+url("https://allfonts.com/s/myfont/v14/JTUSjIg1_i6taAaAaKm459Wdhyzbi.woff2") format("woff2");
+{"python.linting.enabled":true,"python.linting.flake8Enabled":true,"python.linting.flake8Args":["--ignore=W191,W292,E117,E302,E305,E402,E501,E701,E711,E722,E731","--enable=W0611,W0614,C0411"],"customizeUI.stylesheet":{".monaco-workbench .part>.title":"padding: 0",".debug-toolbar":"z-index:10000!important;top:0!important;background:#8882!important;box-shadow:none!important;height:30px!important",".debug-toolbar .drag-area, .debug-toolbar .action-label":"height: 30px!important"}}
+Roses are red, violets are blue, this strange code, is as valid as true
+the simplest valid VISA credit card is 4111 1111 1111 1111
+-+-+---+++--+-+---++-----4
+0 < 7
+ffmpeg -i video.mp4 -vn -acodec libvorbis audio.ogg
+e = power(m * c, 2)
+power(Math.E,      i*Math.PI) + 1 = 0
+fprintf(stderr, "%d\n", iter)
+db.execute("INSERT INTO user (username, password_plaintext) VALUES (" + user + "," + password + ")")
+searchRegexp.FindAllStringSubmatch(string(data), -1)
+checkErr(t.SkipUntil(d...))
+jQuery(document).on('click', '#copy_address', copyToClickboard)
+freopen("three.in","r",stdin)
+\"I don\'t know how this escaping text \"thingy\" works"
+RewriteRule contest http://example.com/node/123 [L,R] 
+is_sudoku_valid(sudoku) && is_sudoku_valid(&rotate(sudoku)) && is_sudoku_valid(&chunk(sudoku))
+requests.post("https://pastebin.com/api/api_post.php", data=data)
+=RAND(99, 99)  # paste it in MS Word
+DELETE FROM "conditions" WHERE "SourceTypeOrReferenceId"=17 AND "SourceGroup"=0;
+godeeper = lambda x # goodeeper(x)
+intitle:"index of"
+log.Debug().Str("method", method).Msg("Unary Request method name")
+New-PSSession -ComputerName 1.2.3.4 -Credential Administrator
+screen.draw.text("500$", center=(120, 300), color="white", fontsize = 36)
+ifconfig | grep ^en1 -A5 | grep inet | head -n 1
+lambda L = EMPTY if L_IS_EMPTY else qsort(x for x in L_FROM_FIRST if x< L_0) + L_FIRST + qsort(x for x in L_FROM_FIRST if x>=L_FIRST)
+num1=(int)R.nextInt(1000+1)
+reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /f /v "NoWindowsUpdate"
+(o)_(o) is valid, too
+am.handleLinkChainAccountPacketData(ctx, packet, "the new" + "packet \"receiver\"")
+Toast.makeText(getApplicationContext(), textScore, Toast.LENGTH_SHORT).show()
+remember_the_semicolons;
+
+RewriteCond %{HTTP_HOST} ^example\.com$ [NC]
+color: var(--text)
+a4 = 16
+swordTransform.RotateAround(transform.position, Vector3.back, 1000 * Time.deltaTime)
+newImage = conv2(double(redChannel), filter / denominator)
+filter = fspecial('gaussian', 25, 5)
+{"Apache":"Upgrade","h2":"Connection","Upgrade, Keep-Alive":"Vary","Accept-Encoding":"Content-Encoding","gzip":"Cache-Control","max-age=172800":"Expires","Sat, 11 Sep 2021 14:55:02 GMT":"Content-Security-Policy","upgrade-insecure-requests":"Content-Length","4005":"Keep-Alive","timeout=5, max=100":"Content-Type","text/html; charset=UTF-8"}
+find /path/to/dir -type d -exec chmod 0755 "{}" -o -type f -exec chmod 0644 "{}"
+Received: by 2002:a05:651c:1312:: with SMTP id u18mr312512lja.200.1611253198272
+pip install simpler -U
+$sql = mysqli_query($koneksi, "select * from user where username = '$username'
+4aaa
+pipeline{agent any environment{user = "ben" user_id = "512" DISABLE_AUTH = "true" DB_ENGINE = "sqlite"} stages{stage("print env vars") {steps{sh "printenv | sort" } } stage("use env vars") { steps { echo "Build_Number = ${env.BUILD_NUMBER}" echo "USER = ${env.user}" echo "USER_ID = ${user_id}" echo "Database engine is ${DB_ENGINE}" echo "DISABLE_AUTH is ${DISABLE_AUTH}"}}}}
+// These kind of comments are not actually a thing here
+# These ones either
+                                  :)                              
+                          
+-- and these ones? nope
+/* Maybe this is the way... no it isn"t" */
+nativehash_to_address_table = {{0x4ede34fbadd967a6, 0x2b37f5c },{0x83666f9fb8febd4b, 0x2b33f94 },{0xbe551c2cc421185d, 0x10fdbfc },{0xf256a75210c5c0eb, 0x10fca18 },{0xf70f00013a62f866, 0x10fbbe8 },{0x541b8576615c33de, 0x10ff6dc },{0x18675bc914891122, 0x10fbdb8 },{0xa07cf1b21b56f041, 0x10ff7d4 },{0x3e2a25b2416dd67e, 0x10fbe00 },{0xa46e98bdc407e23d, 0x10ff7fc },{0x5737199af2dc609f, 0x10fbb8c },{0x106a811c6d3035f3, 0x10f98fc },{0x16fa5ce47f184f1e, 0x1086740 }};
+#macro DFOR(i,j) for (i)
+["Raid", "Block", "notify", ""]
+"is this properly escaped?\"
+"is this properly escaped?\""
+"is this properly escaped?\\""
+"is this properly escaped?\\\""
+"is this properly escaped?\\\"
+"is this properly escaped?\\\\"
+"is this properly escaped?\\\\\"
+"is this properly escaped?\\\\\\"
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+q = lambda l: q([x for x in l[1:] if x <= l[0]]) + [l[0]] + q([x for x in l if x > l[0]]) if l else []
+lerp(lerp(sp, cp, t), lerp(cp, ep, t), t)
+"is this properly escaped?\\\\\\\"
+select count(*) from ( select word, iif(freq >= round(avg(freq)), 'frequent', 'rare') as f from words group by word) where word like 'R%' and f = 'frequent';
+DateTime.UtcNow.Subtract(new DateTime(1970, 1, 1, 0, 0, 0)).TotalSeconds
+refTurquoiseID = ben.getItemIdentifierIDFor(31184, 7)
+gg.searchNumber("620137442967552", gg.TYPE_QWORD, nil, nil, nil, nil)
+func main() { var nCpu int flag.IntVar(&nCpu, "n", 0, "number of parallel procs") flag.Parse() fmt.Printf("nCPU=%d\n", nCpu) wg := sync.WaitGroup{} m := sync.Mutex{} total := 0 for i := 0; i < nCpu; i++ { wg.Add(1) go func(i int) { sum := 0 for j := 0; j < 200000000; j++ { sum=(sum + 9876)*(2031 + i*i)} m.Lock() total += sum fmt.Printf("total(%d)=%d\n", i, sum) m.Unlock() wg.Done() }(i) } wg.Wait() fmt.Printf("%d\n", total)}
+func GoValidator(s interface{}) map[string]interface{}
+userRepo := _userRepository.NewMapUserRepository()
+public class PointReader { private static final int SRID = 4326 private final WKTReader reader private final WKBReader wkbReader private final GeometryFactory gf private CoordinateSequence seq private static final PointReader INSTANCE = new PointReader() private PointReader() { PrecisionModel pm = new PrecisionModel(PrecisionModel.FLOATING) gf = new GeometryFactory(pm, SRID) wkbReader = new WKBReader(gf) reader = new WKTReader(gf) } public Point read(String wkt) { if (wkt == null) { return null } else { Geometry geometry}}}
+set racecourse to list("PStart","w1","w2","w3","w4","w5","w6","w7","w8","PEnd")
+echo #echo off - "%serverPath%\ARK Survival Evolved Dedicated Server\ShooterGame\Binaries\Win64\start.bat"
+echo @echo off > "%serverPath%\ARK Survival Evolved Dedicated Server\ShooterGame\Binaries\Win64\start.bat"
+random.sample(range(10, 30), 5)
+text-align:left;font-family:'Consolas','BitstreamVeraSansMono','CourierNew',Courier,monospace;font-size:20px;"
+print("Pos: " .. tostring(pos["x"]) .. ", " .. tostring(pos["y"]) .. ", " .. tostring(pos["z"]))
+let chatter_name_begin_idx = resp_str.find("!").unwrap_or_default() + 1
